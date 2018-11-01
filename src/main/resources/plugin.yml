@@ -1,6 +1,8 @@
-name: NDGenerator
+name: NDGeneration
 version: 1.0.0 Snapshot
 author: DevCyntrix
+
+description: 'Disables the Minecraft world generation'
 
 website: 'https://github.com/DevCyntrix/NoDiamondGeneration'
 
