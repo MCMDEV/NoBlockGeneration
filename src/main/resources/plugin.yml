@@ -2,4 +2,6 @@ name: NDGenerator
 version: 1.0.0 Snapshot
 author: DevCyntrix
 
+website: 'https://github.com/DevCyntrix/NoDiamondGeneration'
+
 main: de.devcyntrix.ndg.NDGPlugin
