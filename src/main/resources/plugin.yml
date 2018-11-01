@@ -1,0 +1,5 @@
+name: NDGenerator
+version: 1.0.0 Snapshot
+author: DevCyntrix
+
+main: de.devcyntrix.ndg.NDGPlugin
