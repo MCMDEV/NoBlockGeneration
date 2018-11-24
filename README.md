@@ -1,2 +1,2 @@
 # NoDiamondGeneration
-Disables the diamond ore in the Minecraft world generation
+Disables the diamond ore generation in the Minecraft world
